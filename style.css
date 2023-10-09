@@ -170,7 +170,7 @@ input[type="radio"]{
     overflow: hidden;
     transition: max-height 0.5s, padding 0.5s;
 }
-.accordion input[typr="radio"]:checked + label + .content{
+.accordion input[type="radio"]:checked + label + .content{
     max-height: 600px;
     padding: 30px 20px;
 }
